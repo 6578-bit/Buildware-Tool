@@ -116,6 +116,8 @@
 
 <br>
 
+---
+
 ## Donation
 
 ```yaml
@@ -136,3 +138,4 @@
 > - Using this tool may **violate Discord's Terms of Service**.
 
 > - I am **not responsible** for misuse.
+
