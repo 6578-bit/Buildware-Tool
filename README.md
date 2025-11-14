@@ -7,7 +7,7 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/github/v/release/v4lkyr0/Buildware-Tool?label=Version&color=a80505">
+<img src="https://img.shields.io/github/release/v4lkyr0/Buildware-Tool?label=Version&color=a80505">
 <img src="https://img.shields.io/github/stars/v4lkyr0/Buildware-Tool?style=flat&label=Stars&color=a80505">
 <img src="https://img.shields.io/github/repo-size/v4lkyr0/Buildware-Tool?label=Size&color=a80505">
 </p>
@@ -134,4 +134,5 @@
 > - Use this tool **only on your own** token, bots, and servers.
 > - Any malicious or unauthorized use is **prohibited & illegal**.
 > - Using this tool may **violate Discord's Terms of Service**.
+
 > - I am **not responsible** for misuse.
